@@ -1,2 +1,2 @@
 # web-page
-web site designed using HTML CSS
+web site design using HTML CSS
